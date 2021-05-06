@@ -26,6 +26,8 @@ Leafy uses a gamified approach to mental wellness through reflection and journal
 
 [Try out our app](https://expo.io/@jimhua32/projects/leafytest)
 
+[GitHub Repository](https://github.com/jimmyhua32/chkm8)
+
 ## The Team
 - Andrew Chan, Project Manager
 - Isaac Kim, Design
