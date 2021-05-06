@@ -1,5 +1,5 @@
 # Start your journey today!
-[Try out our app](https://expo.io/@jimhua32/projects/leafytest)
+![Poster](https://user-images.githubusercontent.com/24230285/117231127-6d656b80-add3-11eb-95cf-e3f6081332de.png)
 
 &nbsp;
 ## The Problem Space
@@ -22,7 +22,8 @@ Leafy uses a gamified approach to mental wellness through reflection and journal
 - Completely free!
 
 ### Demo
-[Video goes here](www.youtube.com)
+[Video demonstration](www.youtube.com)
+[Try out our app](https://expo.io/@jimhua32/projects/leafytest)
 
 ## The Team
 - Andrew Chan, Project Manager
