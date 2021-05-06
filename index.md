@@ -22,7 +22,7 @@ Leafy uses a gamified approach to mental wellness through reflection and journal
 - Completely free!
 
 ### Demo
-[Video demonstration](www.youtube.com)
+[Video demonstration](https://www.youtube.com)
 
 [Try out our app](https://expo.io/@jimhua32/projects/leafytest)
 
