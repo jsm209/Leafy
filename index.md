@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Start your journey today!
 
-You can use the [editor on GitHub](https://github.com/jsm209/Leafy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## The Problem Space
+### We asked ourselves...
+How might young adults between the ages of 18-25 in America utilize a gamified approach to mental wellness so that they can improve their mental well-being?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Process
+We conducted an online survey targeted towards people between 18-25 in America along with several 1-on-1 interviews. What we found was that many people suffer from some form of mental wellness issue (not illness) and that they often reach for their phones to cope. After analyzing the current market and looking at what potential users have cited as potential needs, our team decided to develop a reflection-based mobile app that would encourage users through a slightly gamified system.
 
-### Markdown
+## The Solution
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Improving and maintaining our mental wellbeing is a constant uphill battle that is often overlooked. After a difficult year, many are recognizing the importance of mental wellness and the effort needed to maintain it. Research shows that although many are becoming increasingly aware of its importance, few know where to start. For some, reflection can be an important first step.
 
-```markdown
-Syntax highlighted code block
+Leafy uses a gamified approach to mental wellness through reflection and journaling. Although everyone approaches their own wellbeing differently, we hope that Leafy will encourage users to be mindful of their mental wellness through journaling and intentional reflection.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsm209/Leafy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Benefits
+- Users can reflect at their own schedule and convenience; no constant notifications that end up doing more harm than good
+- All reflections are saved and searchable, allowing users to see their progress
+- Accessories can be purchased/obtained through continuous reflections to encourage users to keep coming back
+- Completely free!
