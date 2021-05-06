@@ -1,5 +1,5 @@
 # Start your journey today!
-https://expo.io/@jimhua32/projects/leafytest
+[Try out our app](https://expo.io/@jimhua32/projects/leafytest)
 
 &nbsp;
 ## The Problem Space
@@ -20,3 +20,12 @@ Leafy uses a gamified approach to mental wellness through reflection and journal
 - All reflections are saved and searchable, allowing users to see their progress
 - Accessories can be purchased/obtained through continuous reflections to encourage users to keep coming back
 - Completely free!
+
+### Demo
+[Video goes here](www.youtube.com)
+
+## The Team
+- Andrew Chan, Project Manager
+- Isaac Kim, Design
+- Joshua Maza, Developer
+- Jimmy Hua, Developer
